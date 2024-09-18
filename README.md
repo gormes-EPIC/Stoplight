@@ -52,9 +52,9 @@ _Course Content_
 - 5 points - Task was completed, but supplementary materials are weak or missing.
   - Code is complete, but poorly communicates necessary information
 - 4 points - Task was attempted, but is missing major components.    
-  - Missing comments, videos/photos, or reflection questions  
+  - Missing comments, videos/photos, or reflection questions  
 - 3 points - Did not attempt or student should reattempt.  
-  - Inappropriate use of AI tools.
+  - Inappropriate use of AI tools.
   
 _Workforce Readiness_  
   
