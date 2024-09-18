@@ -19,7 +19,7 @@
 
 ## Part III - RBG LED  
 
-![[Pasted image 20240918085928.png]]
+![Pasted image 20240918085928](https://github.com/user-attachments/assets/afc83c00-95dd-4bed-a120-0daec07b2c7f)
 
 - In a new script`rgb_stoplight.py`, repeat the previous two parts, this time using one 4 prong RGB LED, instead of 3 separate lights. This light should follow the same pattern switching from green, to yellow, to red.
 - Add comments to your Python script to explain how it works.
@@ -49,28 +49,27 @@
 _Course Content_
 
 - 6 points - All required items are present.    
-- 5 points - Task was completed, but supplementary materials are weak or missing.    
-    - Code is complete, but poorly communicates necessary information
+- 5 points - Task was completed, but supplementary materials are weak or missing.
+  - Code is complete, but poorly communicates necessary information
 - 4 points - Task was attempted, but is missing major components.    
-    - Missing comments, videos/photos, or reflection questions  
+  - Missing comments, videos/photos, or reflection questions  
 - 3 points - Did not attempt or student should reattempt.  
-    - Inappropriate use of AI tools.
+  - Inappropriate use of AI tools.
   
 _Workforce Readiness_  
   
 - 4 points - Exemplified  WFR standards  
-    - Language is professional.  
-    - Work is clear and easy to read.  
-    - Used deductive reasoning guide solution.  
-    - Reflection on own work was thoughtful and honest.  
+  - Language is professional.  
+  - Work is clear and easy to read.  
+  - Used deductive reasoning guide solution.  
+  - Reflection on own work was thoughtful and honest.  
 - 3 points - Practiced WFR standards  
-    - Language is readable but not professional.  
-    - Work is understandable but not completely clear.  
-    - Reflection on own work was weak.  
-    - Citations were not complete.
-   - Format is somewhat distracting from content
+  - Language is readable but not professional.  
+  - Work is understandable but not completely clear.  
+  - Reflection on own work was weak.  
+  - Citations were not complete.
+  - Format is somewhat distracting from content
 - 2 points - Developing WFR standards  
-    - Work is unprofessional. Significant spelling or grammar errors.
-    - Format is actively distracting from content
-    - Did not attempt or student should reattempt.
-
+  - Work is unprofessional. Significant spelling or grammar errors.
+  - Format is actively distracting from content
+  - Did not attempt or student should reattempt.
