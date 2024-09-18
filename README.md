@@ -59,7 +59,7 @@ _Course Content_
 _Workforce Readiness_  
   
 - 4 points - Exemplified  WFR standards  
-  - Language is professional.  
+  - Language is professional.  
   - Work is clear and easy to read.  
   - Used deductive reasoning guide solution.  
   - Reflection on own work was thoughtful and honest.  
