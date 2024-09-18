@@ -60,16 +60,16 @@ _Workforce Readiness_
   
 - 4 points - Exemplified  WFR standards  
   - Language is professional.  
-  - Work is clear and easy to read.  
-  - Used deductive reasoning guide solution.  
-  - Reflection on own work was thoughtful and honest.  
+  - Work is clear and easy to read.
+  - Used deductive reasoning guide solution.
+  - Reflection on own work was thoughtful and honest.  
 - 3 points - Practiced WFR standards  
-  - Language is readable but not professional.  
-  - Work is understandable but not completely clear.  
-  - Reflection on own work was weak.  
-  - Citations were not complete.
-  - Format is somewhat distracting from content
-- 2 points - Developing WFR standards  
-  - Work is unprofessional. Significant spelling or grammar errors.
-  - Format is actively distracting from content
-  - Did not attempt or student should reattempt.
+  - Language is readable but not professional.  
+  - Work is understandable but not completely clear.  
+  - Reflection on own work was weak.  
+  - Citations were not complete.
+  - Format is somewhat distracting from content
+- 2 points - Developing WFR standards
+  - Work is unprofessional. Significant spelling or grammar errors.
+  - Format is actively distracting from content
+  - Did not attempt or student should reattempt.
