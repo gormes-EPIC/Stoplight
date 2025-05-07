@@ -17,6 +17,11 @@
 
 ## Part 1: Python3
 
+
+https://github.com/user-attachments/assets/9c7ff1fa-3f3b-48b1-b23a-dd164fb6720d
+
+
+
 1. Create a circuit with 3 LEDs(one green, one red, and one yellow).
 2. Create a Python script `led_stoplight.py`  to recreate the following pattern out with your LEDs - Green for 5 seconds, then Yellow for 1 second,  Red for 4 seconds, then it repeats. _Do not use the stoplight sensor, use three individual LEDs._  
 	- You will need to import the `GPIO` and `time` libraries for this assignment.
@@ -26,6 +31,10 @@
 - [ ] Upload `led_stoplight.py`, the video, and the photo to this repository 
 
 ## Part 2: Starting with a Button
+
+
+https://github.com/user-attachments/assets/196ed9b4-3d2d-48af-916f-30e9ce53f429
+
 
 1. In a new script `button_stoplight.py`, add a button or touch module to your project to start your RGB stoplight. When the button is pressed the light should light up in the green, yellow, red pattern.
 2. For your button module, `S` should be connected to a GPIO pin, `V` to 5V, and `G` to ground.
