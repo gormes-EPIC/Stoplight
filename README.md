@@ -9,9 +9,7 @@
 
 - Raspberry Pi
 - Breadboard and T-Cobbler
-- 330 Ω (Ohm) resistor is recommended but anything from 220 Ω - 1 kΩ will work.
-	- If there are four color bands, they will be Orange, Orange, Brown, and then Gold.
-	- If there are five bands, then the colors will be Orange, Orange, Black, Black, Brown.
+- 65 $\Omega$ resistor or greater
 - 3 LED lights (red, green, and yellow) 
 - Male-to-Male Jumper 
 - A digital push button or capacitive touch sensor
