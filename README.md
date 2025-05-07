@@ -60,6 +60,10 @@ https://github.com/user-attachments/assets/beb8b338-8cf1-464b-81e1-90a39ce8afb6
 	1. What is a Python library and how do you include one in your script?
 	2. What does it mean for elements of a circuits to be in series vs. in parallel?
 	3. Can you create a circuit of 3 light bulbs in series? Why or why not?
+  	4. The stoplight pattern is Green ON for 5 seconds, Yellow ON for 1 seconds, and Red ON for 4 seconds. Define the function $f(t)$ as a **piecewise** function that outputs 1 if the green light is on, 2 if the yellow light is on, and 3 if the red light is on over 10 seconds. The bounds of the function are $0<= t <= 10$
+	5. Sketch a graph of $f(t)$ over 10 seconds using a step-like shape.
+
+
 ## Rubric 
 
 - 6 points - All required items are present.    
