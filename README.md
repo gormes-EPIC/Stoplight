@@ -43,11 +43,9 @@ https://github.com/user-attachments/assets/196ed9b4-3d2d-48af-916f-30e9ce53f429
 
 - [ ] Upload `button_stoplight.py`  and the video to this repository
 
-## Part 3: Starting With a Light Sensor
-
+## Part 3: Adding a Light Sensor
 
 https://github.com/user-attachments/assets/beb8b338-8cf1-464b-81e1-90a39ce8afb6
-
 
 1. In a new file, `photocell.py`, you will create a program to light all three lights when a photocell sensor detects it is dark. Photocell sensors work the same as buttons when they are set as inputs. The input value will read 1 for light and 0 for dark. 
 	1. *Optional Challenge: Use an ADC to get a wider range of input values for your sensor. This will allow you to create a varied response for different amounts of light*
